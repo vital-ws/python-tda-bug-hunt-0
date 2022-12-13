@@ -1,3 +1,2 @@
 cwl-airflow==1.0.4
 django-fiber==0.10.5
-Pillow==2.1.0
