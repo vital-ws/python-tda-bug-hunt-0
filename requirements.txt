@@ -1,4 +1,4 @@
-install_requires =
+
     alembic>=1.6.3, <2.0
     argcomplete>=1.10
     attrs>=22.1.0
